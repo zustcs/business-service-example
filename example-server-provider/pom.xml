@@ -13,6 +13,11 @@
     <packaging>jar</packaging>
 
     <dependencies>
+        <dependency>
+            <groupId>cn.zustcs</groupId>
+            <artifactId>example-server-api</artifactId>
+            <version>${example.api.version}</version>
+        </dependency>
         <!-- spring-boot-starter-parent -->
         <dependency>
             <groupId>org.springframework.boot</groupId>

@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: zustcs-example
+  cloud:
+    nacos:
+      server-addr: 10.11.12.1:8848
+      username: nacos
+      password: nacos
+      discovery:
+        group: ZUSTCS_ZROOT

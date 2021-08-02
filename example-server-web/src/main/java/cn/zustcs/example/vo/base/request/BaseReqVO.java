@@ -9,5 +9,4 @@ import java.io.Serializable;
  */
 public class BaseReqVO implements Serializable {
     private static final long serialVersionUID = 4715525328396611537L;
-
 }
